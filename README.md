@@ -112,5 +112,7 @@ Execute the program
 ```
 
 # OUPUT
-![OUTPUT](./Time Table.png)
-![OUTPUT](./html checker.png)
+![Time Table](https://user-images.githubusercontent.com/119559316/233538288-dfdeb39e-8966-446e-9b61-c0cf4a01736d.png)
+![html checker](https://user-images.githubusercontent.com/119559316/233538379-c2be92ab-4c25-4029-9202-5d78e981364d.png)
+
+
